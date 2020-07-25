@@ -1,0 +1,8 @@
+main: ml.govnoed.MinePaint.Paint
+name: Paint
+version: 1.0
+author: morozoffnor
+api-version: 1.16
+
+commands:
+  Paint:
